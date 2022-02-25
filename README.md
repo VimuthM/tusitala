@@ -15,3 +15,4 @@ You will need to develop a one-page decision-making app (please see an example i
  - [X] Use of Git will be preferable. (If Git is used, host the repo on GitHub or any other hosting services and provide us the link)
 
  - [X] The data is stored on the user's browser, so there is no need for any server or database.
+
